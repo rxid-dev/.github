@@ -1,12 +1,8 @@
-## Hi there 👋
+Hi there 👋, Nice to see you here. 😊
 
-<!--
+Welcome to my Github board.
+Everything on this board only made for tutorial purpose, but yeah, you can see it and learn something new, if it's give you an information that you don't know.
 
-**Here are some ideas to get you started:**
+You can also see my 👉 [ **YouTube Channel**](https://www.youtube.com/videotutorialdeveloper " **YouTube Channel**") 👈.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Yeah, that's all from me. ✌️
